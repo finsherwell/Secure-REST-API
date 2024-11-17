@@ -1,0 +1,1 @@
+# Manages exception and/or custom class errors
